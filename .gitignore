@@ -44,3 +44,4 @@ backend/uploads/
 
 # Логи
 *.log
+backend/check_db.py
