@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+.pytest_cache/
+
+# Env
+.env
+.env.local
+*.env
+!.env.example
+
+# Node
+node_modules/
+frontend/build/
+frontend/dist/
+npm-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Медиа
+backend/data/*.mp3
+backend/data/*.wav
+backend/data/*.jpg
+backend/data/*.jpeg
+backend/data/*.png
+backend/uploads/
+
+# Логи
+*.log
